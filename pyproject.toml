@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-taconodes"
+description = "Nodes:TacoLatent, TacoAnimatedLoader, TacoImg2ImgAnimatedLoader, TacoGifMaker."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/YOUR-WORST-TACO/ComfyUI-TacoNodes"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-TacoNodes"
+Icon = ""
